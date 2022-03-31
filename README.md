@@ -1,2 +1,1 @@
-[![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ase1997&show_icons=true&theme=aura)](https://github.com/ase1997/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ase1997&theme=aura)](https://github.com/ase1997/github-readme-stats)
+| <a href="https://github.com/ase1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ase1997&show_icons=true&include_all_commits=true&theme=aura&" alt="Khoa's github stats" /></a> | <a href="https://github.com/ase1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ase1997&theme=aura" /></a> |
