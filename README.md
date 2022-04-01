@@ -1,5 +1,5 @@
 <p align="center">
-   You'll me if you blink twice.
+   You'll miss me if you blink twice.
 </p>  
 
 <p align="center">
