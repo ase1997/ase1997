@@ -1,5 +1,5 @@
 # 💫 About Me:
-An engineering student with a wide range of technical skills, motivated to build intelligent autonomous machines with human-like cognitive capabilities. An obsessive self-learner and organizer with an exceptional ability to pay attention to small details. Seeking a summer 2023 internship in Robotics, Computer Vision, and/or Machine Learning including SLAM, perception, machine vision, and applications of ML/CV in autonomous robotic systems, augmented reality, virtual reality, and smart glasses.
+An engineering student with a wide range of technical skills, motivated to build intelligent autonomous machines with human-like cognitive capabilities. An obsessive self-learner and organizer with an exceptional ability to pay attention to small details. My areas of interest are Robotics, Computer Vision, and Machine Learning including SLAM, perception, machine vision, and applications of ML/CV in autonomous robotic systems, augmented reality, virtual reality, and smart glasses.
 
 
 ## 🌐 Socials:
